@@ -39,8 +39,8 @@
 
 <p align="center">
 <a href="https://github.com/vivek9patel">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vivek9patel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vivek9patel&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tech-pahadi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tech-pahadi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -48,7 +48,7 @@
 
 <p>
 <!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://www.linkedin.com/in/techpahadi/"><img src="https://img.shields.io/badge/tech--pahadi-blueviolet"/></a>
+<a href="https://www.linkedin.com/in/techpahadi/"><img src="https://img.shields.io/badge/ravinder--negi-blueviolet"/></a>
 <a href="mailto:negiofficial24@gmail.com"><img src="https://img.shields.io/badge/-negiofficial24@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.youtube.com/@techpahadi"><img src="https://img.shields.io/badge/-tech--pahadi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
