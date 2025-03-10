@@ -5,6 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=tech-pahadi&color=blueviolet&style=flat">
 </p>
 
+- 🌱 I’m currently working on **Nielseniq** as a **Operation Analyst**
+
+- 👨‍💻 All of my projects are available [here](https://www.vivek9patel.com/projects)
+
+- 📫 How to reach me **negiofficial24@gmai.com**
 
 <!--
 	
